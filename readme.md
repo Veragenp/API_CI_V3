@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b744h62hq5eul9h4/branch/main?svg=true)](https://ci.appveyor.com/project/Veragenp/api-ci-v3/branch/main)
